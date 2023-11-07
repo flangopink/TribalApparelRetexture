@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Tribal Apparel Retexture</name> <!-- TODO: Edit -->
+	<author>Ogam, flangopink</author>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+	<packageId>ogam.tribalapparelretexture</packageId> <!-- TODO: Edit -->
+	<description>A retexture mod for "ETRT: Tribal Apparel Retexture"</description> <!-- TODO: Edit -->
+	<loadAfter>
+		<li>ETRT.TribalApparel</li>
+	</loadAfter>
+	<modDependencies>
+		<li>
+		  <packageId>ETRT.TribalApparel</packageId>
+		  <displayName>ETRT: Tribal Apparel</displayName>
+		  <downloadUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=1544558250</downloadUrl>
+		  <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=1544558250</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+</ModMetaData>
